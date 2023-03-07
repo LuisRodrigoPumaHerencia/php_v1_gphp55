@@ -9,7 +9,7 @@
                     <h1>Registro Docente</h1>
                 </div>
                 <div class="card-body justify-content-center">
-                <form action="../../controller/registro-usuario.php" method="POST" class="needs-validation" novalidate>
+                <form action="../../controller/docentes/registro-docente.php" method="POST" class="needs-validation" novalidate>
                     <div class="row justify-content-center">
                         
                             <div class="col-md-6">
@@ -38,7 +38,7 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating mt-3">
-                                    <input type="email" name="edad" class="form-control" id="floatingInputGrid" placeholder="name@example.com" required>
+                                    <input type="number" name="edad" class="form-control" id="floatingInputGrid" placeholder="name@example.com" required>
                                     <label for="floatingInputGrid">Edad</label>
                                 </div>
                             </div>
