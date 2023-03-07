@@ -11,7 +11,7 @@
         $sentencia -> execute([$email, $contrasena]);
         $contador_usuarios = $sentencia -> fetchALL(PDO::FETCH_OBJ);
         if(sizeof($contador_usuarios)>0){
-            echo "si existe";
+            header('Location: ../view/');
         }else{
             echo "no existe";
         }
