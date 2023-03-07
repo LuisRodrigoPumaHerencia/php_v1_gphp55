@@ -6,7 +6,7 @@
     <h1>LISTA DOCENTES</h1>
     <div class="row justify-items-center mb-3">
         <div class="col-md-2 offset-10">
-            <a href="" class="btn btn-success"><b><i class="fa-solid fa-plus"></i> Agregar</b></a>
+            <a href="registro-docente.php" class="btn btn-success"><b><i class="fa-solid fa-plus"></i> Agregar</b></a>
         </div>
     </div>
 

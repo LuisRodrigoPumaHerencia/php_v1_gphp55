@@ -24,6 +24,7 @@
         </ul>
     </footer>
     </div>
+    <script src="../../assets/js/validacion.js"></script>
     <script src="https://kit.fontawesome.com/c2a0f18374.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" ></script>
 </body>
